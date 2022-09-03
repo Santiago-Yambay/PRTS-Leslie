@@ -3,6 +3,11 @@ Proyecto de tesis Leslie Yambay
 # Proyecto de tesis
 * Leguaje de programción C++
 * IDE usado: Arduino
+
+# Creación de una rama
+* git checkout -b ＜nombre de la nueva rama＞
+# Cambiarse de rama
+* git checkout ＜nombre de la rama a la que te quieres mover＞
 ## (1) Creación de add
 * git add -A
 ## (2) Creación de commit
